@@ -1,0 +1,18 @@
+{
+  "name": "postgres-middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "run": "node index.js"
+  },
+  "author": "Srikanth",
+  "license": "ISC",
+  "description": ""
+}
